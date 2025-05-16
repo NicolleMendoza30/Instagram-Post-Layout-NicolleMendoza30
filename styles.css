@@ -1,0 +1,62 @@
+.my-instagram{
+
+    margin: auto;
+         
+}
+
+body{   
+    background-color: lightgrey;  
+    width: 50%;
+    margin: auto;
+    margin-top: auto;
+      
+}
+.titulo {
+    display: flex;  
+    margin-top: 16px;     
+}
+
+
+
+
+.imagen img{
+    width: 100%;
+    height: auto;
+    
+}
+
+.post{
+    background-color: white;
+    margin-bottom: auto;
+    padding-bottom: 10px;
+    padding-left: 1px;   
+}
+
+.iconos-derecha{
+    font-size: 30px;
+}
+.iconos-derecha .fa-bookmark{
+    font-size: 30px;
+    float: right;
+   
+}
+.titulo{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.fa-ellipsis-vertical{
+    font-size: 30px;
+   
+    
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    font-family: "Lobster", sans-serif;
+    font-size: 14px;
+}
